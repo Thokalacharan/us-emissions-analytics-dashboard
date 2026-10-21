@@ -13,7 +13,7 @@ An interactive dashboard analyzing 2023 US greenhouse gas emissions using Databr
 ![County emissions query](county-emissions-query.png)
 
 ### 2. State-Level Total Emissions
-![State emissions query](state-emissions-query.png)
+![State emissions query](State-emissions-query.png)
 
 ### 3. Emissions Per Person
 ![Emissions per person query](emissions-per-person-query.png)
